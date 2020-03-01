@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<title>Error Page</title>
+</head>
+<body>
+<h2> Error Information</h2>
+    	<ul>
+        <li th:each="entry : ${model}">
+            <span th:text="${entry.key}"> </span>= <span th:text="${entry.value}"></span>
+        </li>
+        </ul>
+</body>
+</html>

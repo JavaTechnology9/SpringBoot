@@ -1,0 +1,90 @@
+2020-02-27 07:51:11.389  INFO 4272 --- [restartedMain] com.javatechnology.Application           : Starting Application on Lenovo-PC with PID 4272 (C:\Users\yadav\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\SpringBoot\target\classes started by yadav in C:\Users\yadav\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\SpringBoot)
+2020-02-27 07:51:11.396  INFO 4272 --- [restartedMain] com.javatechnology.Application           : No active profile set, falling back to default profiles: default
+2020-02-27 07:51:11.499  INFO 4272 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-02-27 07:51:11.500  INFO 4272 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-02-27 07:51:12.926  INFO 4272 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9000 (http)
+2020-02-27 07:51:12.939  INFO 4272 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-02-27 07:51:12.940  INFO 4272 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-27 07:51:13.034  INFO 4272 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-02-27 07:51:13.036  INFO 4272 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1536 ms
+2020-02-27 07:51:13.290  INFO 4272 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-27 07:51:13.495  INFO 4272 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-02-27 07:51:13.553  INFO 4272 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9000 (http) with context path ''
+2020-02-27 07:51:13.560  INFO 4272 --- [restartedMain] com.javatechnology.Application           : Started Application in 2.945 seconds (JVM running for 4.145)
+2020-02-27 07:51:30.444  INFO 4272 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-02-27 07:51:30.450  INFO 4272 --- [RMI TCP Connection(2)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-27 07:52:30.984  INFO 22064 --- [restartedMain] com.javatechnology.Application           : Starting Application on Lenovo-PC with PID 22064 (C:\Users\yadav\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\SpringBoot\target\classes started by yadav in C:\Users\yadav\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\SpringBoot)
+2020-02-27 07:52:31.000  INFO 22064 --- [restartedMain] com.javatechnology.Application           : No active profile set, falling back to default profiles: default
+2020-02-27 07:52:31.101  INFO 22064 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-02-27 07:52:31.101  INFO 22064 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-02-27 07:52:32.628  INFO 22064 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9000 (http)
+2020-02-27 07:52:32.641  INFO 22064 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-02-27 07:52:32.641  INFO 22064 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-27 07:52:32.731  INFO 22064 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-02-27 07:52:32.733  INFO 22064 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1631 ms
+2020-02-27 07:52:32.986  INFO 22064 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-27 07:52:33.184  INFO 22064 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-02-27 07:52:33.246  INFO 22064 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9000 (http) with context path ''
+2020-02-27 07:52:33.251  INFO 22064 --- [restartedMain] com.javatechnology.Application           : Started Application in 2.94 seconds (JVM running for 4.089)
+2020-02-27 07:56:05.484  INFO 22064 --- [RMI TCP Connection(12)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-02-27 07:56:05.489  INFO 22064 --- [RMI TCP Connection(12)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-27 07:56:14.674  INFO 22844 --- [restartedMain] com.javatechnology.Application           : Starting Application on Lenovo-PC with PID 22844 (C:\Users\yadav\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\SpringBoot\target\classes started by yadav in C:\Users\yadav\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\SpringBoot)
+2020-02-27 07:56:14.684  INFO 22844 --- [restartedMain] com.javatechnology.Application           : No active profile set, falling back to default profiles: default
+2020-02-27 07:56:14.777  INFO 22844 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-02-27 07:56:14.778  INFO 22844 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-02-27 07:56:16.068  INFO 22844 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9000 (http)
+2020-02-27 07:56:16.082  INFO 22844 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-02-27 07:56:16.083  INFO 22844 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-27 07:56:16.187  INFO 22844 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-02-27 07:56:16.189  INFO 22844 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1410 ms
+2020-02-27 07:56:16.455  INFO 22844 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-27 07:56:16.670  INFO 22844 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-02-27 07:56:16.739  INFO 22844 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9000 (http) with context path ''
+2020-02-27 07:56:16.745  INFO 22844 --- [restartedMain] com.javatechnology.Application           : Started Application in 2.62 seconds (JVM running for 3.551)
+2020-02-27 07:58:54.349  INFO 22844 --- [RMI TCP Connection(9)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-02-27 07:58:54.356  INFO 22844 --- [RMI TCP Connection(9)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-27 07:59:10.460  INFO 18268 --- [restartedMain] com.javatechnology.Application           : Starting Application on Lenovo-PC with PID 18268 (C:\Users\yadav\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\SpringBoot\target\classes started by yadav in C:\Users\yadav\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\SpringBoot)
+2020-02-27 07:59:10.474  INFO 18268 --- [restartedMain] com.javatechnology.Application           : No active profile set, falling back to default profiles: default
+2020-02-27 07:59:10.604  INFO 18268 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-02-27 07:59:10.605  INFO 18268 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-02-27 07:59:11.909  INFO 18268 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9000 (http)
+2020-02-27 07:59:11.924  INFO 18268 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-02-27 07:59:11.925  INFO 18268 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-27 07:59:12.017  INFO 18268 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-02-27 07:59:12.018  INFO 18268 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1413 ms
+2020-02-27 07:59:12.259  INFO 18268 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-27 07:59:12.455  INFO 18268 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-02-27 07:59:12.510  INFO 18268 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9000 (http) with context path ''
+2020-02-27 07:59:12.516  INFO 18268 --- [restartedMain] com.javatechnology.Application           : Started Application in 2.684 seconds (JVM running for 3.752)
+2020-02-27 08:00:01.090  INFO 18268 --- [RMI TCP Connection(9)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-02-27 08:00:01.099  INFO 18268 --- [RMI TCP Connection(9)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-27 08:00:19.506  INFO 21116 --- [restartedMain] com.javatechnology.Application           : Starting Application on Lenovo-PC with PID 21116 (C:\Users\yadav\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\SpringBoot\target\classes started by yadav in C:\Users\yadav\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\SpringBoot)
+2020-02-27 08:00:19.512  INFO 21116 --- [restartedMain] com.javatechnology.Application           : No active profile set, falling back to default profiles: default
+2020-02-27 08:00:19.609  INFO 21116 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-02-27 08:00:19.610  INFO 21116 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-02-27 08:00:20.902  INFO 21116 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9000 (http)
+2020-02-27 08:00:20.915  INFO 21116 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-02-27 08:00:20.915  INFO 21116 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-27 08:00:21.004  INFO 21116 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-02-27 08:00:21.005  INFO 21116 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1395 ms
+2020-02-27 08:00:21.254  INFO 21116 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-27 08:00:21.455  INFO 21116 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-02-27 08:00:21.514  INFO 21116 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9000 (http) with context path ''
+2020-02-27 08:00:21.521  INFO 21116 --- [restartedMain] com.javatechnology.Application           : Started Application in 2.762 seconds (JVM running for 4.021)
+2020-02-27 08:01:06.351  INFO 21116 --- [RMI TCP Connection(9)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-02-27 08:01:06.358  INFO 21116 --- [RMI TCP Connection(9)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-27 08:01:23.499  INFO 2828 --- [restartedMain] com.javatechnology.Application           : Starting Application on Lenovo-PC with PID 2828 (C:\Users\yadav\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\SpringBoot\target\classes started by yadav in C:\Users\yadav\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\SpringBoot)
+2020-02-27 08:01:23.511  INFO 2828 --- [restartedMain] com.javatechnology.Application           : No active profile set, falling back to default profiles: default
+2020-02-27 08:01:23.643  INFO 2828 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-02-27 08:01:23.643  INFO 2828 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-02-27 08:01:24.911  INFO 2828 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9000 (http)
+2020-02-27 08:01:24.924  INFO 2828 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-02-27 08:01:24.924  INFO 2828 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-27 08:01:25.008  INFO 2828 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-02-27 08:01:25.009  INFO 2828 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1366 ms
+2020-02-27 08:01:25.248  INFO 2828 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-27 08:01:25.439  INFO 2828 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-02-27 08:01:25.494  INFO 2828 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9000 (http) with context path ''
+2020-02-27 08:01:25.500  INFO 2828 --- [restartedMain] com.javatechnology.Application           : Started Application in 2.603 seconds (JVM running for 3.775)
+2020-02-27 08:07:15.017  INFO 2828 --- [RMI TCP Connection(15)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-02-27 08:07:15.046  INFO 2828 --- [RMI TCP Connection(15)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
